@@ -1,3 +1,4 @@
 half the text of my favourite song
 add finish my song
-feature first line
+feature the first line
+feature the second line
